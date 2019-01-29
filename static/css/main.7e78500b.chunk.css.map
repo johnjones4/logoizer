@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/John.jones/Development/logoizer/src/App.css","main.7e78500b.chunk.css"],"names":[],"mappings":"AAAA,QACE,qBAAA,CACA,WAAA,CACA,aCCF","file":"main.7e78500b.chunk.css","sourcesContent":["#canvas {\n  border: solid 1px #ccc;\n  margin: auto;\n  display: block;\n}\n","#canvas {\n  border: solid 1px #ccc;\n  margin: auto;\n  display: block;\n}\n\n"]}
