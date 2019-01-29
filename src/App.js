@@ -7,7 +7,7 @@ class App extends Component {
     this.state = {
       width: 360,
       height: 240,
-      inset: 40
+      inset: 30
     }
   }
 
